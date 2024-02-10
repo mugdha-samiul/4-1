@@ -1,24 +1,24 @@
 # OUTPUTS!
-**CASE 1 : (1,1), (8,4)**
-1 1
-2 1
-3 2
-4 2
-5 3
-6 3
-7 4
-8 4
+**CASE 1 : (1,1), (8,4)**<br>
+1 1<br>
+2 1<br>
+3 2<br>
+4 2<br>
+5 3<br>
+6 3<br>
+7 4<br>
+8 4<br>
 
 
-**CASE 2 : (1,1), (4,8)**
-1 1
-1 2
-2 3
-2 4
-3 5
-3 6
-4 7
-4 8
+**CASE 2 : (1,1), (4,8)**<br>
+1 1<br>
+1 2<br>
+2 3<br>
+2 4<br>
+3 5<br>
+3 6<br>
+4 7<br>
+4 8<br>
 
 # Explanation of the adjustments I have made for the slope of \( m > 1 \)!
 
